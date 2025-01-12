@@ -1,4 +1,4 @@
-package p;
+package pl.lodz.p;
 
 import java.util.Comparator;
 import java.util.LinkedList;

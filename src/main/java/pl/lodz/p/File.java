@@ -1,4 +1,4 @@
-package p;
+package pl.lodz.p;
 
 public class File {
     int size;

@@ -1,4 +1,4 @@
-package p;
+package pl.lodz.p;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
